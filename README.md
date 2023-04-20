@@ -4,7 +4,4 @@
  https://fabcode01.github.io/TodoList/
  
  
- Atualizações futuras:
- -Modo noturno
- -Abas de tarefas concluídas
- -Editar tarefas
+ Atualizações futuras: Modo noturno; Aba de tarefas concluídas; Editar tarefas; salvar lista de tarefas localmente.

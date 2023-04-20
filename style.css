@@ -8,7 +8,7 @@
 
 *{
     user-select: none;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: opensans, sans-serif;
      padding: 0;
      margin: 0;
  }
@@ -47,7 +47,7 @@ div span.material-symbols-outlined {
 
 #input{
     background-color: rgb(139, 197, 207);
-    padding: 15px;
+    padding: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -62,7 +62,7 @@ div span.material-symbols-outlined {
     padding-bottom: 5px;
     text-align: center;
     max-width: 535px;
-    width: 90%;
+    width: 95%;
     max-height: 300px;
     height: auto;
     background-color: rgb(186, 232, 240);
@@ -93,7 +93,7 @@ input[type='text']{
     
     border: none;
     width: 80%;
-    height: 15px;
+    height: 20px;
     padding: 5px;
     
 }
@@ -118,7 +118,7 @@ ul{
 
     background-color: aliceblue;
     border-radius: 5px;
-
+    text-transform: lowercase;
     display: flex;
     text-align: left;
     padding: 15px;
